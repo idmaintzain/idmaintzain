@@ -1,6 +1,7 @@
 
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/iade/">
@@ -18,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
- Innovative software engineer with vast experience in commercial and enterprise application. I build innovative and cutting-edge business solutions for the impressive suite of clients within its global reach
+ Innovative software engineer with vast experience in commercial and enterprise application. I build cutting-edge business solutions for the impressive suite of clients within its global reach
 
 - :seedling: Exploring Technical Content Writing.
 
