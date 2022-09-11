@@ -24,7 +24,7 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :telescope: Im currently working on Hallofbits
+- :telescope: Im currently working on <a href="https://hallofbits.com">HallOfBits</a>
 
 ---
 
