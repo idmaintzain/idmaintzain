@@ -22,7 +22,11 @@
 
 ### [![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidmaintzain%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a full stack software engineer with proficiency in Web and Mobile application Development. I am passionate about gaining insight on the interaction processes between humans, computers and their environment.
+
+I am known for creating robust, high-speed web and mobile apps, i have built solutions that has help grow revenues, accelerate customer acquisition, increase web traffic and deliver an industry-leading competitive advantage.
+
+A graduate of Electrical/Electronic Engineering, A Zend Certified PHP Engineer. My work experiences cut across technology, financial services, environmental industry, manufacturing, pharmaceutical, hospitality, retails, accounting and education
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
